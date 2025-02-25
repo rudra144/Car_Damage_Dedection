@@ -11,7 +11,7 @@ This project implements a **deep learning model** to classify vehicle damage usi
 ## **Application Preview**  
 
 ### **Web App Interface:**  
-![App Screenshot](img/app_screenshot.jpg)
+![App Screenshot](img/app_screenshot.png)
 
 ### **Example Input Image:**  
 ![Damaged Car](img/temp_file.jpg)
