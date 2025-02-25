@@ -1,4 +1,3 @@
-Here's the full structured repository in a single file format, ready to be added to your GitHub repository.
 
 ---
 
