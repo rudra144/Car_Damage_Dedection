@@ -98,4 +98,4 @@ LinkedIn: [linkedin.com/in/rudhresh-madhusudhanan](https://www.linkedin.com/in/r
 
 ---
 
-This file contains **everything** structured neatly. Just copy-paste it into your **README.md** file in your repository, and it will serve as a professional documentation for recruiters and other developers! 🚀
+
